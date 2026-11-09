@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pbix.lock
